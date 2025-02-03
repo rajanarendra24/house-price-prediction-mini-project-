@@ -109,7 +109,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Have questions or suggestions? Feel free to reach out:
 
-Email: rajanarednra.ponnada@gmail.com
+Email: narednraponnada2@gmail.com
 
 LinkedIn: Srinivasa Raja Narendra Ponnada
 
